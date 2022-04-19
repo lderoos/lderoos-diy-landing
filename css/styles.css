@@ -1,8 +1,8 @@
-@import url('sharpie.css');
+@import url('satoshi.css');
 
 /* My Styles */
 body {
-    font-family: 'Sharpie-Regular';
+    font-family: 'Satoshi-Light';
     display: grid;
     justify–content: center;
     align-items: center;
