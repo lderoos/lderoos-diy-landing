@@ -8,7 +8,7 @@ body {
     height: 75%;
     width: 75%;
     justify-content: center;
-    margin: 30px 20px;
+    margin: auto;
     background-color: #fdfbf9;
 }
 
@@ -41,12 +41,12 @@ a {
     margin-top: 15px;
     margin-bottom: 15px;
     padding: 20px 10px;
-    border: 3px solid;
+    border: 10px solid #B0F26D;
     border-radius: 10px;
     display: flex;
     justify-content: center;
 }
 
 a:hover {
-    color: #6cac2b;
+    color: #DF004F;
 }
